@@ -1,0 +1,6 @@
+*.hdd
+*.iso
+/obj
+/limine
+iso_root/
+bin/
